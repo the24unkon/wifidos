@@ -1,5 +1,5 @@
 # Wifi dos
-#Created By Musab Tatek
+Created By Musab Tatek
 
 ## Installation
 # Update your package list
