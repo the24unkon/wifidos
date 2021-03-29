@@ -11,8 +11,8 @@ $ sudo apt install python3 python3-pip
 # Clone the repository
 $ git clone https://github.com/musabman/wifidos.git
 
-# Enter the 
-$ cd Wifi Dos
+# Go to the Directory 
+$ cd wifidos
 
 # Start Wifi Dos
 $ sudo python3 wifidos.py
