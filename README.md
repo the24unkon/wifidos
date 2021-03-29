@@ -1,7 +1,7 @@
 # Wifi dos
 #Created By Musab Tatek
 
-Installation:
+#Installation:
 # Update your package list
 $ sudo apt update
 
