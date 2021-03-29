@@ -9,7 +9,7 @@ $ sudo apt update
 $ sudo apt install python3 python3-pip
 
 # Clone the repository
-$ git clone https://github.com/musabman/.git
+$ git clone https://github.com/musabman/wifidos.git
 
 # Enter the 
 $ cd Wifi Dos
