@@ -14,7 +14,7 @@ $ sudo apt install python3 python3-pip
 
 # Clone the repository
 ```bash
-$ git clone https://github.com/musabman/wifidos.git
+$ git clone https://github.com/musab-tatek/wifidos.git
 ```
 
 # Go to the Directory 
